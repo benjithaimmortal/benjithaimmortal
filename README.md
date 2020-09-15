@@ -1,4 +1,5 @@
-### Hi there 👋
+# I did this because everybody else did it.
+## But I couldn't think of anything creative in that 5 minutes 🤷‍
 
 <!--
 **benjithaimmortal/benjithaimmortal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
