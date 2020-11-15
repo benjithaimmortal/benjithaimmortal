@@ -1,5 +1,19 @@
-# I did this because everybody else did it.
-## But I couldn't think of anything creative in that 5 minutes 🤷‍
+I mean, only if you want to.
+
+I'm not forcing it.
+
+It's not really my place to use the imperative here.
+
+Why are you here, anyway?
+
+I don't like your tone.
+
+But I guess I didn't like my tone either.
+
+Who demands that someone read, in this day in age?
+
+I'm not your English teacher... anymore.
+
 
 <!--
 **benjithaimmortal/benjithaimmortal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
