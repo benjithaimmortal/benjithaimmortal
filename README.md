@@ -3,7 +3,7 @@
 JavaScript. PHP. Python. Ruby. Shell. 
 Design. Develop. Brand. Market. Manage.
 
-<div style="display: flex; justify-content: center;"> ![Leggo](https://dotfoundry.co/wp-content/uploads/2023/11/turtle_rocket.gif)</div>
+<div style="display: flex; justify-content: center;"><img alt="Leggo" src="https://dotfoundry.co/wp-content/uploads/2023/11/turtle_rocket.gif"></div>
 
 <!-- ## README, from Benji
 
