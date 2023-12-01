@@ -1,8 +1,7 @@
-<p align="center"><a href="https://dotfoundry.co" target="_blank">![Dot Foundry](https://dotfoundry.co/wp-content/themes/dotfoundry/assets/images/full-logomark-red.svg)</a></p>
+<p align="center"><a href="https://dotfoundry.co" target="_blank"><img alt="Dot Foundry" src="https://dotfoundry.co/wp-content/themes/dotfoundry/assets/images/full-logomark-red.svg"></a></p>
 
-JavaScript. PHP. Python. Ruby. Shell. 
-
-Design. Develop. Brand. Market. Manage.
+<p align="center">JavaScript. PHP. Python. Ruby. Shell.</p>
+<p align="center">Design. Develop. Brand. Market. Manage.</p>
 
 <p align="center"><img style="width: 200px;" alt="Leggo" src="https://dotfoundry.co/wp-content/uploads/2023/11/turtle_rocket.gif"></p>
 
