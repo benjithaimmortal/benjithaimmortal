@@ -1,6 +1,7 @@
 <a href="https://dotfoundry.co" target="_blank" style="width: 100%; display: flex; justify-content: center;">![Dot Foundry](https://dotfoundry.co/wp-content/themes/dotfoundry/assets/images/full-logomark-red.svg)</a>
 
 JavaScript. PHP. Python. Ruby. Shell. 
+
 Design. Develop. Brand. Market. Manage.
 
 <div style="display: flex; justify-content: center; width: 100%;"><img style="width: 200px;" alt="Leggo" src="https://dotfoundry.co/wp-content/uploads/2023/11/turtle_rocket.gif"></div>
