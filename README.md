@@ -1,17 +1,9 @@
-<style>
-    div {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-</style>
-
-<div>[![Dot Foundry](https://dotfoundry.co/wp-content/themes/dotfoundry/assets/images/full-logomark-red.svg)](https://dotfoundry.co)</div>
+[![Dot Foundry](https://dotfoundry.co/wp-content/themes/dotfoundry/assets/images/full-logomark-red.svg)](https://dotfoundry.co)
 
 JavaScript. PHP. Python. Ruby. Shell. 
 Design. Develop. Brand. Market. Manage.
 
-<div>![Leggo](https://dotfoundry.co/wp-content/uploads/2023/11/turtle_rocket.gif)</div>
+![Leggo](https://dotfoundry.co/wp-content/uploads/2023/11/turtle_rocket.gif)
 
 <!-- ## README, from Benji
 
